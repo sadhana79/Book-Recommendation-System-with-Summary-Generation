@@ -21,13 +21,14 @@ This project helps students find academic books based on keyword searches and pr
 3. When user selects a book, it generates a **summary** using **TextRank**
 
 📷 Screenshots
-(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/book%20reccomedation%20project.zip)
-(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/dataset.jpg)
-(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/homepage.jpg)
-(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/login.jpg)
-(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/recommendation.jpg)
-(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/summary.jpg)
-(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/summarygenerate.jpg).
+## 📷 Screenshots
+
+![Homepage](https://raw.githubusercontent.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/main/homepage.jpg)
+![Login](https://raw.githubusercontent.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/main/login.jpg
+![Recommendation](https://raw.githubusercontent.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/main/recommendation.jpg)
+![Summary](https://raw.githubusercontent.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/main/summary.jpg)
+![Summary Generate](https://raw.githubusercontent.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/main/summarygenerate.jpg)
+![Dataset](https://raw.githubusercontent.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/main/dataset.jpg)
 
 
 🚀 How to Run
