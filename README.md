@@ -21,6 +21,13 @@ This project helps students find academic books based on keyword searches and pr
 3. When user selects a book, it generates a **summary** using **TextRank**
 
 📷 Screenshots
+(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/book%20reccomedation%20project.zip)
+(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/dataset.jpg)
+(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/homepage.jpg)
+(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/login.jpg)
+(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/recommendation.jpg)
+(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/summary.jpg)
+(https://github.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/blob/main/summarygenerate.jpg).
 
 
 🚀 How to Run
