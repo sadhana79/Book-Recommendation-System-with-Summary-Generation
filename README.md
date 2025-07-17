@@ -21,16 +21,7 @@ This project helps students find academic books based on keyword searches and pr
 3. When user selects a book, it generates a **summary** using **TextRank**
 
 📷 Screenshots
-🔍 Search Page
-![Search Page](https://raw.githubusercontent.com/yourusername/Book-Recommendation-System/main/search.jpg)
 
-📚 Recommended Books
-![Recommendations](https://raw.githubusercontent.com/yourusername/Book-Recommendation-System/main/recommend.jpg)
-
-📝 Summary Output
-![Summary](https://raw.githubusercontent.com/yourusername/Book-Recommendation-System/main/summary.jpg)
-
-> _Tip: Replace the above image links with your actual uploaded screenshots from GitHub repo_
 
 🚀 How to Run
 
