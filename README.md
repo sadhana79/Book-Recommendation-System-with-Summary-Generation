@@ -20,7 +20,7 @@ This project helps students find academic books based on keyword searches and pr
 2. System returns the top relevant books using **TF-IDF**
 3. When user selects a book, it generates a **summary** using **TextRank**
 
-📷 Screenshots
+
 ## 📷 Screenshots
 ![Login](https://raw.githubusercontent.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/main/login.jpg)
 ![Homepage](https://raw.githubusercontent.com/sadhana79/Book-Recommendation-System-with-Summary-Generation/main/homepage.jpg)
