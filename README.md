@@ -36,3 +36,5 @@ This project helps students find academic books based on keyword searches and pr
 git clone https://github.com/sadhana79/Book-Recommendation-System.git
 cd Book-Recommendation-System
 python manage.py runserver
+
+@ developed by sadhana gonge 2024
