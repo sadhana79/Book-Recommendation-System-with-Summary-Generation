@@ -1,5 +1,5 @@
 📖 Book Recommendation System with Summary Generation
-
+> 🗓️ Developed in 2024 | Uploaded for portfolio reference
 This project helps students find academic books based on keyword searches and provides AI-generated summaries to save time and improve learning.
 
  Features
